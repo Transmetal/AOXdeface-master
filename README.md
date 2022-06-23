@@ -10,7 +10,7 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `pkg install python2`
 * `pip2 install requests`
 * `pkg install git`
-* `git clone https://github.com/Ranginang67/AOXdeface`
+* `git clone https://github.com/Transmetal/AOXdeface-master`
 * `cd AOXdeface`
 * `python2 aox.py`
 
@@ -19,7 +19,7 @@ of sites that have been determined by you, this is not dangerous, and this is on
 * `apt-get install pthon-pip`
 * `pip install requests`
 * `apt-get install git`
-* `git clone https://github.com/Ranginang67/AOXdeface`
+* `git clone https://github.com/Transmetal/AOXdeface-master`
 * `cd AOXdeface`
 * `python aox.py`
 
